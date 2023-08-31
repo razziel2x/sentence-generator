@@ -1,0 +1,17 @@
+{
+    "name": "razziel/sentence-generator",
+    "description": "A simple sentence generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Razziel\\SentenceGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kris Razziel"
+        }
+    ],
+    "require": {}
+}
