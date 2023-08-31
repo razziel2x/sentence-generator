@@ -1,6 +1,6 @@
 <?php
 
-namespace Razziel\SentenceGenerator;
+namespace Razziel2x\SentenceGenerator;
 class SentenceGenerator
 {
   private array $sentences = [
